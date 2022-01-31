@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[user]
+	name = konrad
+	email = konrad2666@gmail.com
+[remote "origin"]
+	url = https://github.com/Konrad440/brownie_fund_me.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
